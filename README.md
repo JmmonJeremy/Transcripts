@@ -27,7 +27,7 @@ $${\color{white}White}$$
 >>> Triple arrow
 >>>> Quadruple arrow, etc . . .
 
-> [!TIP]
+> [!TIP] $${\color{green}Green}$$
 > Optional information to help a user be more successful.
 >> $${\color{red}Red}$$
 

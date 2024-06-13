@@ -20,7 +20,7 @@ $${\color{lightblue}Light \space Blue}$$
 $${\color{black}Black}$$
 $${\color{white}White}$$
 
-> [!NOTE]
+> [!NOTE] Is this colored?
 > Highlights information that users should take into account, even when skimming.
 
 > [!TIP]

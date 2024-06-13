@@ -22,20 +22,20 @@ $${\color{white}White}$$
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
-> (With highlight bar - adds arrow for new line after hitting return)
+>> (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
 
 > [!TIP]
 > Optional information to help a user be more successful.
-> (With highlight bar - adds arrow for new line after hitting return)
+> (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
 
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
-> (With highlight bar - adds arrow for new line after hitting return)
+> (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
-> (With highlight bar - adds arrow for new line after hitting return)
+> (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
 
 > [!CAUTION]
 > Negative potential consequences of an action.
-> (With highlight bar - adds arrow for new line after hitting return)
+> (With highlight bar - adds arrow for new line after hitting return but it is not a new line)

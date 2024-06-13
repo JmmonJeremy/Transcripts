@@ -65,6 +65,8 @@ If you want to color more than 1 word then I have found this the most convenient
 
 $\color{lightblue}{\textrm{Write a sentence as you normally would!}}$  
 
+[$\color{lightblue}{\textrm{Write a sentence as you normally would!}}$](https://www.youtube.com/watch?v=4vIkaZ1qb74)
+
 and you can define your colors, refer to the [LaTeX/Colors](https://en.wikibooks.org/wiki/LaTeX/Colors#Adding_the_color_package) as stated above and try it by yourself 
 ![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)

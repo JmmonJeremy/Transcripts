@@ -76,4 +76,4 @@ and you can define your colors, refer to the [LaTeX/Colors](https://en.wikibooks
 This works to change to different colors if you change the lower case color in the second line. The upper case color is the word that is displayed. The first line is somehow required to display it. (only 1 word and length limit)
 
 <svg width="200" height="50" xmlns="http://www.w3.org/2000/svg"><text x="10" y="30" fill="green" font-family="Arial"></text></svg>
-![SVG](https://server.powerupstudio.eu/svg?c=%3Csvg%20width%3D%22100%22%20height%3D%2250%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctext%20x%3D%2210%22%20y%3D%2230%22%20fill%3D%22purple%22%20font-family%3D%22Arial%22%3ESVG_No_Spaces_Allowed%3C%2Ftext%3E%3C%2Fsvg%3E)
+![SVG](https://server.powerupstudio.eu/svg?c=%3Csvg%20width%3D%22200%22%20height%3D%2250%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctext%20x%3D%2210%22%20y%3D%2230%22%20fill%3D%22purple%22%20font-family%3D%22Arial%22%3ESVG_No_Spaces_Allowed%3C%2Ftext%3E%3C%2Fsvg%3E)

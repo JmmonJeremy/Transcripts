@@ -25,11 +25,11 @@ $${\color{white}White}$$
 > (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
 >> Double arrow started grey highlight line.
 >>> Triple arrow
->>>> Quadruple arrow
+>>>> Quadruple arrow, etc . . .
 
 > [!TIP]
 > Optional information to help a user be more successful.
-> (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
+>> [!NOTE]
 
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.

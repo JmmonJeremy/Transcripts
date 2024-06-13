@@ -42,3 +42,5 @@ $${\color{white}White}$$
 > [!CAUTION]
 > Negative potential consequences of an action.
 > (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
+
+$\color{green}{test}$

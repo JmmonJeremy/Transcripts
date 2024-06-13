@@ -20,8 +20,8 @@ $${\color{lightblue}Light \space Blue}$$
 $${\color{black}Black}$$
 $${\color{white}White}$$
 
-> [!NOTE  Is this colored?]
-> Highlights information that users should take into account, even when skimming.
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming. (With highlight bar - you need arrow for new line)
 
 > [!TIP]
 > Optional information to help a user be more successful.

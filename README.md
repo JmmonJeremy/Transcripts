@@ -22,8 +22,9 @@ $${\color{white}White}$$
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
->> (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
-> Double arrow started grey highlight line.
+> (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
+>> Double arrow started grey highlight line.
+>>> Triple arrow
 
 > [!TIP]
 > Optional information to help a user be more successful.

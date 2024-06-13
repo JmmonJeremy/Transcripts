@@ -11,7 +11,7 @@
 ```
 ## Code to color text
 Now since May 2022, Github can accept LATEX code on Markdown, so you can use the \color{namecolor} inside the $$$$ Block, like the example below:
-$${\color{lightgreen}Light \space Green \color{lightblue}Light \space Blue}$$  $${\color{lightblue}Light \space Blue}$$
+$${\color{lightgreen}Light \space Green  \color{lightblue}Light \space Blue}$$  $${\color{lightblue}Light \space Blue}$$
 Basic
 Code	Appearing
 $${\color{red}Red}$$	$${\color{red}Red}$$

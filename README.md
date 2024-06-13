@@ -43,4 +43,4 @@ $${\color{white}White}$$
 > Negative potential consequences of an action.
 > (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
 
-$\color{green}{Can \space you write a sentence in here?}$
+$\color{green}{You \space can \space write \space a \space sentence \space in \space here \space with \space space \space characters \space between \space each \space word}$

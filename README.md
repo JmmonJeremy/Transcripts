@@ -27,8 +27,8 @@ $${\color{white}White}$$
 >>> Triple arrow
 >>>> Quadruple arrow, etc . . .
 
-> [!TIP] $${\color{green}Green}$$
-> Optional information to help a user be more successful.
+> [!TIP] 
+> Optional information to help a user be more successful. $${\color{green} Nothing \space can \space follow \space [!TIP] \space or \space it \space breaks}$$
 >> $${\color{red}Red}$$
 
 > [!IMPORTANT]

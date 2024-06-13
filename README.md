@@ -29,7 +29,7 @@ $${\color{white}White}$$
 
 > [!TIP]
 > Optional information to help a user be more successful.
->> [!NOTE]
+>> $${\color{red}Red}$$
 
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.

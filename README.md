@@ -63,7 +63,7 @@ black, blue, brown, cyan, darkgray, gray, green, lightgray, lime, magenta, olive
 
 If you want to color more than 1 word then I have found this the most convenient way to color text wit Latex in Github.
 
-$\color{lightblue}{\textrm{Red Nimetaga 3 kõige suuremat pilveteenuste pakkujat}}$  
+$\color{lightblue}{\textrm{Write a sentence as you normally would!}}$  
 
 and you can define your colors, refer to the [LaTeX/Colors](https://en.wikibooks.org/wiki/LaTeX/Colors#Adding_the_color_package) as stated above and try it by yourself 
 ![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)

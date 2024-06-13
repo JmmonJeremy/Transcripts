@@ -9,10 +9,14 @@
 @@ text in purple (and bold)@@
 ```
 ## Code to color text
+Now since May 2022, Github can accept LATEX code on Markdown, so you can use the \color{namecolor} inside the $$$$ Block, like the example below:
+
+Basic
+Code	Appearing
 $${\color{red}Red}$$	$${\color{red}Red}$$
 $${\color{green}Green}$$	$${\color{green}Green}$$
 $${\color{lightgreen}Light \space Green}$$	$${\color{lightgreen}Light \space Green}$$
 $${\color{blue}Blue}$$	$${\color{blue}Blue}$$
 $${\color{lightblue}Light \space Blue}$$	$${\color{lightblue}Light \space Blue}$$
 $${\color{black}Black}$$	$${\color{black}Black}$$
-$${\color{white}White}$$
+$${\color{white}White}$$	$${\color{white}White}$$

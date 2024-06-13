@@ -50,3 +50,9 @@ Entering colored text
 code in README.md file, where \ is used to skip backspace:
 
 ## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
+
+change color for only part of the text
+
+code in README.md file, where \ is used to skip backspace:
+
+# ${This\ is\ a\ {\color{red}Big}}\ Title$

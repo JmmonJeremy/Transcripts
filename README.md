@@ -61,6 +61,10 @@ The predefined color names are
 
 black, blue, brown, cyan, darkgray, gray, green, lightgray, lime, magenta, olive, orange, pink, purple, red, teal, violet, white, yellow.
 
+If you want to color more than 1 word then I have found this the most convenient way to color text wit Latex in Github.
+
+$\color{lightblue}{\textrm{Red Nimetaga 3 kõige suuremat pilveteenuste pakkujat}}$  
+
 and you can define your colors, refer to the [LaTeX/Colors](https://en.wikibooks.org/wiki/LaTeX/Colors#Adding_the_color_package) as stated above and try it by yourself 
 ![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
@@ -68,3 +72,5 @@ and you can define your colors, refer to the [LaTeX/Colors](https://en.wikibooks
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+
+

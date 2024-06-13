@@ -25,6 +25,7 @@ $${\color{white}White}$$
 > (With highlight bar - adds arrow for new line after hitting return but it is not a new line)
 >> Double arrow started grey highlight line.
 >>> Triple arrow
+>>>> Quadruple arrow
 
 > [!TIP]
 > Optional information to help a user be more successful.

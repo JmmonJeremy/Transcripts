@@ -56,3 +56,9 @@ change color for only part of the text
 code in README.md file, where \ is used to skip backspace:
 
 # ${This\ is\ a\ {\color{red}Big}}\ Title$
+
+The predefined color names are
+
+black, blue, brown, cyan, darkgray, gray, green, lightgray, lime, magenta, olive, orange, pink, purple, red, teal, violet, white, yellow.
+
+and you can define your colors, refer to the [LaTeX/Colors](https://en.wikibooks.org/wiki/LaTeX/Colors#Adding_the_color_package) as stated above and try it by yourself 

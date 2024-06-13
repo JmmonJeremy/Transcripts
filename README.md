@@ -73,4 +73,4 @@ and you can define your colors, refer to the [LaTeX/Colors](https://en.wikibooks
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 
-
+<svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"><text x="10" y="30" fill="green" font-family="Arial">Green</text></svg>

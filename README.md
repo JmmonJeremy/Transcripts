@@ -1,7 +1,7 @@
 # [Transcript for "JavaScript Show Password Functionality](https://jmmonjeremy.github.io/Transcripts/JavaScript_Show_Password_Functionality.html)
 ### [YouTube Video by Blaine Robertson](https://www.youtube.com/watch?v=4vIkaZ1qb74)
 ### $\textcolor{brown}{\textsf{Brown Heading}}$
-## Space above code below is required
+## Space above code below is required if using HTML tags & then ### doesn't work after it
 ```diff
 - text in red
 + text in green
